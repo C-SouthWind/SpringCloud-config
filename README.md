@@ -14,9 +14,9 @@ springcloud-config
 	包括：
 
 	1.config
-	         springcloud-client（基础消费者）
+	         springcloud-client（客户端）
 	
-	         springcloud-server（基础提供者）
+	         springcloud-server（服务器）
 		
 
 
